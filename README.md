@@ -24,7 +24,7 @@ cd OnGDashboard
 ```
 3. Install Python Dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r server/api/offshore_forecast_api/requirements.txt
 ```
 4. Install Node.JS Dependencies
 ```bash
